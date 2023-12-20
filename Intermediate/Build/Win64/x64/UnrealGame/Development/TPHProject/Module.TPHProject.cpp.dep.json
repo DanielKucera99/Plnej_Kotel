@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\frant\\documents\\unreal projects\\tphproject\\intermediate\\build\\win64\\x64\\unrealgame\\development\\tphproject\\module.tphproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\frant\\documents\\unreal projects\\tphproject\\intermediate\\build\\win64\\x64\\tphproject\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\frant\\documents\\unreal projects\\tphproject\\intermediate\\build\\win64\\x64\\unrealgame\\development\\tphproject\\definitions.tphproject.h",
+            "c:\\users\\frant\\documents\\unreal projects\\tphproject\\intermediate\\source\\tphproject.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

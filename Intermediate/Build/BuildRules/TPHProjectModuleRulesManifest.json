@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\frant\\Documents\\Unreal Projects\\TPHProject\\Intermediate\\Source\\TPHProject.Build.cs",
+		"C:\\Users\\frant\\Documents\\Unreal Projects\\TPHProject\\Intermediate\\Source\\TPHProject.Target.cs",
+		"C:\\Users\\frant\\Documents\\Unreal Projects\\TPHProject\\Intermediate\\Source\\TPHProjectClient.Target.cs",
+		"C:\\Users\\frant\\Documents\\Unreal Projects\\TPHProject\\Intermediate\\Source\\TPHProjectEditor.Target.cs",
+		"C:\\Users\\frant\\Documents\\Unreal Projects\\TPHProject\\Intermediate\\Source\\TPHProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TPHProject.cpp.obj": [
+			"TPHProject.cpp.obj"
+		]
+	}
+}
